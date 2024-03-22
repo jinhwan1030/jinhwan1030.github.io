@@ -1,6 +1,6 @@
 ---
 title: "React Native 입문 가이드: 설치부터 프로젝트 만들기까지"
-date: 2024-03-15 15:20:00 +0900
+date: 2024-03-16 10:20:00 +0900
 categories: [Programming, React Native]
 tags: [react native, installation, project, debugging, tutorial]
 ---
